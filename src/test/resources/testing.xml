@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Ebay Mobile Phone Purchase Assignment" parallel="tests">
+    <test name="EbayMobilePhonePurchase Chrome Test">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="com.ebay.automation.tests.EbayMobilePhonePurchase" />
+        </classes>
+    </test>
+    <test name="EbayMobilePhonePurchase Firefox Test">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="com.ebay.automation.tests.EbayMobilePhonePurchase" />
+        </classes>
+    </test>
+</suite>
