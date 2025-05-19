@@ -18,13 +18,21 @@ This project automates a complete mobile phone purchase flow on [eBay](https://w
 
 src/test/java/com/ebay/automation
 ├── pages
+
 │ ├── HomePage.java
+
 │ ├── ElectronicsPage.java
+
 │ ├── SearchResultsPage.java
+
 │ ├── ProductDetailsPage.java
+
 │ ├── CartPage.java
+
 │ └── CheckoutPage.java
+
 └── tests
+
 └── PurchaseTest.java
 
 
@@ -36,3 +44,5 @@ src/test/java/com/ebay/automation
 - Maven
 - ChromeDriver
 
+## LinkedIn 
+https://www.linkedin.com/feed/update/urn:li:activity:7327386644041416705/
