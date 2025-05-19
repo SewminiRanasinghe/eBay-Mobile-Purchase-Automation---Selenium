@@ -17,6 +17,7 @@ This project automates a complete mobile phone purchase flow on [eBay](https://w
 ## Project Structure
 
 src/test/java/com/ebay/automation
+
 ├── pages
 
 │ ├── HomePage.java
